@@ -1,0 +1,40 @@
+iframe {
+  border-radius: 20px;
+}
+
+.video-section {
+  display: flex;
+  margin-top: 20px;
+}
+
+.video-section h3 {
+  color: white;
+}
+
+.next-play-list {
+  flex-direction: column;
+}
+
+.next-play {
+  margin-top: -20px;
+  margin-left: 80px;
+}
+
+.next-play h3 {
+  color: white;
+}
+
+.btn-profile {
+  border: none;
+  background-color: #2e2e34;
+  border-radius: 15px;
+  padding: 5px;
+  margin-right: 8px;
+}
+
+.view-count {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+}

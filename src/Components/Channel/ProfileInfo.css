@@ -1,0 +1,94 @@
+.profile-info {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.profileinfo-wrapper {
+  margin-top: 20px;
+}
+
+.profile-info img {
+  margin-right: 10px;
+}
+
+.profile-sub {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.button-subs {
+  margin-left: 15px;
+  height: 35px;
+  background: #ff0000;
+  border-radius: 20px;
+}
+
+.profile-links {
+  margin-top: 25px;
+  display: flex;
+  color: white;
+}
+
+.profile-links li {
+  margin-right: 35px;
+}
+
+.profile-link-active {
+  color: #ff0000;
+  border-bottom: 2px solid #ff0000;
+}
+
+.profilevideo-cover {
+  display: flex;
+  width: 750px;
+  color: white;
+  margin-top: 20px;
+}
+
+.profilevideo-cover img {
+  margin-right: 15px;
+}
+
+.profilevideo-cover h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 22px;
+}
+
+.profilevideo-cover p {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  opacity: 0.6;
+}
+
+.videoand-recomend {
+  display: flex;
+}
+
+.recommended {
+  margin-top: -50px;
+  margin-left: auto;
+  color: white;
+}
+
+.recommend-item {
+  display: flex;
+  align-items: center;
+}
+
+.recommend-item img {
+  margin-right: 10px;
+}
+
+.channel-video-info {
+  margin: 0;
+  padding: 0;
+  margin-left: 5px;
+}
+
+.bottom-video-channel {
+  margin-top: 15px;
+}

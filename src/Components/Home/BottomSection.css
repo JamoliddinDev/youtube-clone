@@ -1,0 +1,12 @@
+.subscribe-button {
+  background: #ff0000;
+  border-radius: 20px;
+  width: 120px;
+  margin-right: 10px;
+  color: white;
+}
+
+.arrow-position-bottom {
+  display: flex;
+  margin-left: 450px;
+}

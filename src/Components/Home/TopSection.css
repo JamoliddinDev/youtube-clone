@@ -1,0 +1,33 @@
+.topsection {
+  display: flex;
+  align-items: center;
+}
+
+.topsection-wrapper {
+  margin-top: 35px;
+  width: 80%;
+}
+
+.topsection Link {
+  display: flex;
+}
+
+.topsection img {
+  margin-right: 15px;
+  margin-bottom: 10px;
+}
+
+.topsection h3 {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+.arrow-position {
+  display: flex;
+  margin-left: 750px;
+}
+
+.left-arrow {
+  margin-right: 10px;
+}
